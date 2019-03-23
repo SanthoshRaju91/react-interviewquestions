@@ -24,5 +24,4 @@ Since the framework has got a lot of traction and popularity, the interviewers h
 
 3. Which inline style cannot be applied to React components ?  
    <br/>
-   
    > Media queries

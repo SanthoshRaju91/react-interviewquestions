@@ -13,3 +13,16 @@ Since the framework has got a lot of traction and popularity, the interviewers h
 
    > `componentDidMount()`. According to the docs, `componentDidMount()` life-cycle method is invoked immediately after a component is mounted. Intialization that requires DOM nodes should go here. (read more here)[https://reactjs.org/docs/react-component.html#componentdidmount]
 
+<br/>
+
+2. Which type of Components can be shallow-rendered ?
+   <br/>
+   
+   > All Components (function & class components) (read more about shallow-rendering)[https://reactjs.org/docs/shallow-renderer.html]
+   
+<br/>
+
+3. Which inline style cannot be applied to React components ?  
+   <br/>
+   
+   > Media queries

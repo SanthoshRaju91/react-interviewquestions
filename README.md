@@ -11,14 +11,14 @@ Since the framework has got a lot of traction and popularity, the interviewers h
 1. Which life-cycle method is most suitable to fetch Ajax data to be rendered in the component ?
    <br/>
 
-   > `componentDidMount()`. According to the docs, `componentDidMount()` life-cycle method is invoked immediately after a component is mounted. Intialization that requires DOM nodes should go here. (read more here)[https://reactjs.org/docs/react-component.html#componentdidmount]
+   > `componentDidMount()`. According to the docs, `componentDidMount()` life-cycle method is invoked immediately after a component is mounted. Intialization that requires DOM nodes should go here. [read more here](https://reactjs.org/docs/react-component.html#componentdidmount)
 
 <br/>
 
 2. Which type of Components can be shallow-rendered ?
    <br/>
    
-   > All Components (function & class components) (read more about shallow-rendering)[https://reactjs.org/docs/shallow-renderer.html]
+   > All Components (function & class components) [read more about shallow-rendering](https://reactjs.org/docs/shallow-renderer.html)
    
 <br/>
 

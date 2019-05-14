@@ -26,6 +26,9 @@ Since the framework has got a lot of traction and popularity, the interviewers h
    <br/>
    > Media queries
 
+<br/>
+
 4. You have a component which gets repeated in a list many times, and you are worried about performance. You have ensured that you use immutable data structures for your props, and you are comfortable that you always want the component's representation in the DOM to stay untouched while the prop references stay the same. How do you ensure this behavior?
  <br/>
+ 
  > Extend your component from React.PureComponent, this way React will only render when the prop references are updated.
